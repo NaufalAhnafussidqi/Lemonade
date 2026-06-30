@@ -2,7 +2,7 @@
 
 **Tugas Pemrograman Perangkat Bergerak**
 
-Aplikasi Android interaktif untuk membuat lemonade, dibangun menggunakan **Kotlin** dan **Jetpack Compose**. Pengguna dapat memetik lemon dari pohon, memerasnya beberapa kali, lalu meminum lemonade-nya!
+Aplikasi Android interaktif untuk membuat lemonade, dibangun menggunakan **Kotlin** dan **Jetpack Compose**.
 
 ---
 
